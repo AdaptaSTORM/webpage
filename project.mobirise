@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STORM",
-    "currentPage": "Public Storm Warning Signals.html",
+    "currentPage": "survival kit.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -53,7 +53,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 42,
+    "uniqCompNum": 43,
     "versionPublish": "4.8.5",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -3350,7 +3350,7 @@
             }
           },
           "_name": "gallery1",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "r6rAcDAbqt",
           "_anchor": "gallery1-u",
           "_protectedParams": [
@@ -3376,7 +3376,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Water",
+                "caption": "Water<br>-In case of water shortage",
                 "active": false
               },
               {
@@ -3389,7 +3389,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Food",
+                "caption": "Canned Goods<br>-after a typhoon, natural resources of foods might run out",
                 "active": false
               },
               {
@@ -3402,7 +3402,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Flashlight",
+                "caption": "Flashlight<br>-when typhoon occurs, power shortage is expected to happen",
                 "active": false
               },
               {
@@ -3415,7 +3415,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Battery-powered radio",
+                "caption": "Battery-powered radio<br>-since power shortage might occur, a battery-powered radio will help you keep updated with the current events without the use of television",
                 "active": false
               },
               {
@@ -3428,7 +3428,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Extra batteries",
+                "caption": "Extra batteries<br>-if the absence of electrical power goes longer, use these extra batteries to keep your flaslighht and radio alive and working.&nbsp;",
                 "active": false
               },
               {
@@ -3441,7 +3441,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "First aid kit",
+                "caption": "First aid kit<br>-injuries after typhoon occurence is also expected<br><br>",
                 "active": false
               },
               {
@@ -3454,7 +3454,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Multi-purpose tool",
+                "caption": "Multi-purpose tool<br>-during/after a typhoon, different tools will be harder to keep. having a multi-purpose will definitely be handy",
                 "active": false
               },
               {
@@ -3467,7 +3467,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Copies of personal documents",
+                "caption": "Copies of personal documents<br>-your personal documents might go missing or get wet when a typhoon comes. It is important to have backup",
                 "active": false
               },
               {
@@ -3480,7 +3480,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Extra cash",
+                "caption": "Extra cash<br>-because of power shortage and destroyedbuildings, it will be harder to withdraw from the bank",
                 "active": false
               },
               {
@@ -3493,7 +3493,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Whistle",
+                "caption": "Whistle<br>-in case you get lost or get stuck in an emergency situation, you can use the whistle to inform and alert people around you",
                 "active": false
               },
               {
@@ -3506,7 +3506,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Matches",
+                "caption": "Matches<br>-at times of typhoon, gasoline can get &nbsp;pretty expensive. You can use some matches to save some cash to cook or light up yourlight sources",
                 "active": false
               },
               {
@@ -3519,7 +3519,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Extra cloyhes",
+                "caption": "Extra clothes<br>-as a result of a typhoon, your clothes might get wet or go missing",
                 "active": true
               }
             ]
